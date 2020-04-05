@@ -1,0 +1,2 @@
+FLASK_APP=bmize
+FLASK_ENV=development
